@@ -38,10 +38,10 @@ let obj3 = Employee()
 let obj4 = Employee()
 
 
- obj1.SetData(name:"Nikunj",sal:10000,department:"IT",designation:"HOD")
+ obj1.SetData(name:"Yogesh",sal:10000,department:"IT",designation:"HOD")
  obj2.SetData(name:"Murli",sal:20000,department:"CE",designation:"Fac")
- obj3.SetData(name:"DMP",sal:30000,department:"ME",designation:"Sub")
- obj4.SetData(name:"Tanu",sal:40000,department:"BE",designation:"Ass")
+ obj3.SetData(name:"Priya",sal:30000,department:"ME",designation:"Sub")
+ obj4.SetData(name:"Vijay",sal:40000,department:"BE",designation:"Ass")
 obj1.GetData()
 obj2.GetData()
 obj3.GetData()
